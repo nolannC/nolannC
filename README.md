@@ -38,11 +38,11 @@
   <br>
   <h3> Github Stats </h3>
   <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolannC&theme=blue-green" />
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nolannC&theme=blue-green" />
   
 ### Social Link 
  
-<p><a href="https://github.com/nolannC" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  
+<p><a href="https://github.com/nolannC" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nolann.coll@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
   
   <!--
