@@ -1,5 +1,4 @@
 ## I'm Nolann, junion developer, I'm loving maths and computing
-
 <br>
 <h2>My skills</h2>
   <p>
@@ -14,7 +13,7 @@
    <p>
       <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
    </p>  
-<h4>Others</h4>
+<h4>Programming</h4>
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -39,16 +38,23 @@
   
   <h2>OS</h2>
   <p>
-    <img alt="" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img alt="" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-    <img alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   </p>
   <br>
   <h2> Github Stats </h2>
   <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolannC&theme=blue-green" />
   
-<h2>Social Link</h2> 
+ <h2> Hobbies<h2>
+  <p>
+    <ul>
+      <li>Surfing</li>
+      <li>Mathematics</li>
+      <li>Computer Science</li>
+  </ul>
+  </p>
+  <h2>Social Link</h2> 
  
 <p><a href="https://github.com/nolannC" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nolann.coll@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
